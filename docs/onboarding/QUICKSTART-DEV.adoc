@@ -23,7 +23,7 @@ guix shell
 
 [source,bash]
 ----
-git clone https://github.com/metadatastician/enterglide-ncc-137-k.git
+git clone https://github.com/catachresis-colloquium/enterglide-ncc-137-k.git
 cd enterglide-ncc-137-k
 just setup-dev
 ----
@@ -100,5 +100,5 @@ Or read `0-AI-MANIFEST.a2ml` and `.claude/CLAUDE.md` directly.
 == Get Help
 
 * **Architecture**: link:../EXPLAINME.adoc[EXPLAINME.adoc]
-* **Wiki**: https://github.com/metadatastician/enterglide-ncc-137-k/wiki
+* **Wiki**: https://github.com/catachresis-colloquium/enterglide-ncc-137-k/wiki
 * **Report issue**: `just help-me`
