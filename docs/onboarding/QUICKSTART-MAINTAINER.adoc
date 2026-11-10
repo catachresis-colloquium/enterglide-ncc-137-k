@@ -19,7 +19,7 @@ UNASSIGNED
 
 [source,bash]
 ----
-git clone https://github.com/metadatastician/enterglide-ncc-137-k.git
+git clone https://github.com/catachresis-colloquium/enterglide-ncc-137-k.git
 cd enterglide-ncc-137-k
 just build-release
 ----
@@ -119,5 +119,5 @@ Each instance has isolated config, data, and logs.
 
 == Reporting Issues
 
-* Upstream: https://github.com/metadatastician/enterglide-ncc-137-k/issues
+* Upstream: https://github.com/catachresis-colloquium/enterglide-ncc-137-k/issues
 * With diagnostic: `just help-me` (pre-fills context)

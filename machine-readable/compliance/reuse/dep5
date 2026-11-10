@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: Enterglide NCC-137-K
 Upstream-Contact: Jonathan D.A. Jewell <j.d.a.jewell@open.ac.uk>
-Source: https://github.com/metadatastician/enterglide-ncc-137-k
+Source: https://github.com/catachresis-colloquium/enterglide-ncc-137-k
 
 # Default: all files are MPL-2.0
 Files: *

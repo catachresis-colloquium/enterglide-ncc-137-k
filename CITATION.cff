@@ -7,8 +7,8 @@ authors:
 title: "Enterglide NCC-137-K"
 version: 0.1.0
 date-released: "2026-09-02"
-url: "https://github.com/metadatastician/enterglide-ncc-137-k"
-repository-code: "https://github.com/metadatastician/enterglide-ncc-137-k"
+url: "https://github.com/catachresis-colloquium/enterglide-ncc-137-k"
+repository-code: "https://github.com/catachresis-colloquium/enterglide-ncc-137-k"
 license: MPL-2.0
 keywords:
   - "rsr"
