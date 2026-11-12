@@ -23,7 +23,7 @@
 # The owner segment is part of the derived name, so it is part of the IDENTITY:
 # the same repo hosted under a different owner has a different uuid. Record the
 # owner that is TRUE TODAY, and re-derive if it ever moves.
-uuid = "d34531d1-45fa-5851-8513-8802535e300b"
+uuid = "93fcdafb-697b-59b8-96f6-8936935ec4e6"
 primary-forge = "github"
 primary-owner = "catachresis-colloquium"
 canonical-name = "enterglide-ncc-137-k"

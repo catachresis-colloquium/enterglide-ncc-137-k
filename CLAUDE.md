@@ -59,7 +59,7 @@ TypeScript is permitted under Bun. The "use ReScript" rule is retired — ReScri
 
 # This repo: `enterglide-ncc-137-k`  ·  clade `gm-enterglide-ncc-137-k`
 
-- **Identity** — uuid `d34531d1-45fa-5851-8513-8802535e300b`; clade `gm` (secondary ``); born 2026-09-02; forge `catachresis-colloquium/enterglide-ncc-137-k`.
+- **Identity** — uuid `93fcdafb-697b-59b8-96f6-8936935ec4e6`; clade `gm` (secondary ``); born 2026-09-02; forge `catachresis-colloquium/enterglide-ncc-137-k`.
 - **IS** — Sixth Stealth Glider investigation (reserved): the topology of knots — the K in the name — with 137 pointing at the Varying-Constants hypothesis (drift of the fine-structure constant over time) and NCC nodding to astronomy's catalogue acronyms. Intent recorded 2026-09-02 (owner ruling); no implementation yet.
 - **IS-NOT** — a shipped or playable game · a specification of the knot-topology mechanics (only the intent is recorded) · a rename or fork of any earlier Stealth Glider project · the coordination hub for the line
 - **Where it sits** — pipeline position **sixth Stealth Glider investigation**; chain `f19-stealth-glider -> f117a-stealth-glider -> sr71-blackglider -> x15-rocket-glider -> planer-1 -> enterglide-ncc-137-k -> tardis-rule-disruption`; coordination = `catachresis-colloquium/stealth-glider-ecosystem`.
